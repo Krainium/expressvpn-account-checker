@@ -108,7 +108,7 @@ Requires **Go 1.21+**. No external dependencies — pure stdlib.
 ```bash
 git clone https://github.com/krainium/expressvpn-account-checker
 cd expressvpn-account-checker
-go build -o main mai.go
+go build -o main main.go
 ./main
 ```
 ```bash
